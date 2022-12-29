@@ -1,0 +1,8 @@
+[submodule "noevernierblog/pub"]
+	path = noevernierblog/pub
+	url = https://github.com/noevernier/noevernier.github.io.git
+	branch = main
+[submodule "noevernierblog/public"]
+	path = noevernierblog/public
+	url = https://github.com/noevernier/noevernier.github.io.git
+	branch = main
